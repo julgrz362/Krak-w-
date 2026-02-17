@@ -45,7 +45,7 @@ body {
 /* HERO */
 .hero {
     height: 80vh;
-    background-image: url("https://images.unsplash.com/photo-1549880338-65ddcdfd017b");
+    background-image: url("https://www.niesamowitapolska.eu/images/dolnoslaskie/wroclaw-i-okolice/atrakcja/Krakow/Krakow.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -97,4 +97,5 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+
 }
